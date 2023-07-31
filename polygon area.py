@@ -1,4 +1,4 @@
-from math import tan, pi
+import math
 
 
 n_sides = int(input("Input number of sides: "))
